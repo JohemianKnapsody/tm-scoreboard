@@ -296,7 +296,7 @@
 
 	playButton.addEventListener("mouseup", play);
 
-	for (var i = 0; i < 5; ++i)
+	for (var i = 0; i < 10; ++i)
 		addContestant();
 
 	refreshContestants();
